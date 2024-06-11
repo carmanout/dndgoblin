@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventura/arco-0-preludio/personajes/protagonistas/lyra/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"tags":["protagonistas"],"permalink":"/aventura/arco-0-preludio/personajes/protagonistas/lyra/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ***
