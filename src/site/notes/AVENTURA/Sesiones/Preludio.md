@@ -30,4 +30,4 @@ Parece la ocasión perfecta para hacer que el destino avance, y bien de golpe. T
 
 Debo investigar a los goblins y sus vidas pasadas. Quizás sean buenos aliados durante mi misión, y además, podría ayudarles a buscar un nuevo lugar el en mundo. Quien sabe, a lo mejor hasta me encariño de ellos.
 
--> [[Sesión Oneshoot\|Sesión Oneshoot]]
+-> [[AVENTURA/Sesiones/Sesión Oneshot\|Sesión Oneshot]]
