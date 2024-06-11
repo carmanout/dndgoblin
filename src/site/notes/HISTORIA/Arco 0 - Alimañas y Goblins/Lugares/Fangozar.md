@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/historia/arco-0-alimanas-y-goblins/lugares/fangozar/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/historia/arco-0-alimanas-y-goblins/lugares/fangozar/"}
 ---
 
 #lugares
