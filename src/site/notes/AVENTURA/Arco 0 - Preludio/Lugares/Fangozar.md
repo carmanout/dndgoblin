@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/aventura/arco-0-preludio/lugares/fangozar/","dgPassFrontmatter":true}
 ---
 
-# Fangozar: El Refugio del Barro
 #lugares
 ***
 ## Ubicación
