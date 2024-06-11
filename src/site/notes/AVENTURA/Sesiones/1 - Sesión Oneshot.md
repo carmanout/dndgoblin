@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"Jugador 1":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Culina\|Culina]]","Jugador 2":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Princesa Goblina\|Princesa Goblina]]","Jugador 3":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Eructa\|Eructa]]","Jugador 4":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Irenix Moñotero\|Irenix Moñotero]]","Jugador 5":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Lyra\|Lyra]]","tags":["sesion"],"permalink":"/aventura/sesiones/1-sesion-oneshot/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/aventura/sesiones/1-sesion-oneshot/","tags":["sesion"],"noteIcon":""}
 ---
 
 > 25º día de otoño, año 781 de los nuevos Dioses.
 
-Hoy comienza el día oficialmente la descristalización de los hilos del destino. He enviado una carta a [[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Princesa Goblina\|Princesa Goblina]] como si yo fuera [[Irenix Moñotero]] para que asista al [[AVENTURA/Arco 0 - Preludio/Eventos/Drag-ón Fest\|Drag-ón Fest]]. De esta manera también me aseguraré de que [[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Culina\|Culina]] asista. Se que [[Lyra]] estará allí, pero tengo dudas de [[Eructa]], así que iré a verla y le daré un empujón para que asista.
+Hoy comienza el día oficialmente la descristalización de los hilos del destino. He enviado una carta a [[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Princesa Goblina\|Princesa Goblina]] como si yo fuera [[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Irenix Moñotero\|Irenix Moñotero]] para que asista al [[AVENTURA/Arco 0 - Preludio/Eventos/Drag-ón Fest\|Drag-ón Fest]]. De esta manera también me aseguraré de que [[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Culina\|Culina]] asista. Se que [[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Lyra\|Lyra]] estará allí, pero tengo dudas de [[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Eructa\|Eructa]], así que iré a verla y le daré un empujón para que asista.
 
 > 26º día de otoño, año 781 de los nuevos Dioses.
 
@@ -14,8 +14,8 @@ Durante su viaje, cayeron en un lugar totalmente inesperado y olvidado para mi, 
 
 Tras el anochecer, encontraron al caballo del paladín malherido, el cual les guio hasta su antiguo dueño. El paladín, sin mediar palabra, luchó contra el grupo de goblins y perdió contra el grupo, pudiendo coger de vuelta el amuleto dragón.
 
-En ese momento intervine, explicándoles la situación que cada uno de ellos padecían. Salvo [[Culina]], ninguna de ellas parecía tener conocimiento de sus maldiciones, y les di la oportunidad de romperlas a cambio de destruir el amuleto dragón, dejando atrás su vida de goblin. Ellas aceptaron, así que eliminé sus maldiciones destruyendo el amuleto dragón y liberando el poder que había dentro de este.
+En ese momento intervine, explicándoles la situación que cada uno de ellos padecían. Salvo [[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Culina\|Culina]], ninguna de ellas parecía tener conocimiento de sus maldiciones, y les di la oportunidad de romperlas a cambio de destruir el amuleto dragón, dejando atrás su vida de goblin. Ellas aceptaron, así que eliminé sus maldiciones destruyendo el amuleto dragón y liberando el poder que había dentro de este.
 
-[[Princesa Goblina]] me preguntó si sabía algo más sobre ella y su pasado, así que le narré brevemente que pertenecía a la realeza de [[AVENTURA/Arco 1 -  Monstruos y Dragones/Lugares/Forviolette\|Forviolette]], un reino destruido hace más de una década. De esta manera, ella queriendo investigar sobre su pasado, el grupo se le unió y decidieron viajar de aventuras juntos, esperando que sus maldiciones estuvieran ligadas de alguna manera, para descubrir y recuperar sus vidas pasadas.
+[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Princesa Goblina\|Princesa Goblina]] me preguntó si sabía algo más sobre ella y su pasado, así que le narré brevemente que pertenecía a la realeza de [[AVENTURA/Arco 1 -  Monstruos y Dragones/Lugares/Forviolette\|Forviolette]], un reino destruido hace más de una década. De esta manera, ella queriendo investigar sobre su pasado, el grupo se le unió y decidieron viajar de aventuras juntos, esperando que sus maldiciones estuvieran ligadas de alguna manera, para descubrir y recuperar sus vidas pasadas.
 
 Ahora que están en el camino, debo ayudarles, porque aunque esté emocionado de ver cómo acaba todo esto, los hilos del destino deben ser descristalizados. Tengo la sensación de que si les ayudo, conseguiré lo que me propongo.
