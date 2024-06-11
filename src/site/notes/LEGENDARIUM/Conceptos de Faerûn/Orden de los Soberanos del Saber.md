@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/legendarium/conceptos-de-faerun/orden-de-los-soberanos-del-saber/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/legendarium/conceptos-de-faerun/orden-de-los-soberanos-del-saber/","noteIcon":""}
 ---
 
 Esta orden, tiene poder en todo Faeûn, pero a la vez no la conoce nadie. Básicamente es una orden que trata de prevalecer el orden social a nivel cultural. Tratan constantemente de que las mujeres no logren posiciones de poder, e incluso crean mitos e historias sobre estas.
