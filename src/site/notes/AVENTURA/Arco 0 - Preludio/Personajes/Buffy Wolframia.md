@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventura/arco-0-preludio/personajes/buffy-wolframia/","noteIcon":""}
+{"dg-publish":true,"permalink":"/AVENTURA/Arco 0 - Preludio/Personajes/Buffy Wolframia/","noteIcon":""}
 ---
 
 ## Descripción
