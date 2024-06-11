@@ -11,13 +11,10 @@ Buffy Wolframia ha protegido las ruinas del Templo de los Susurros durante siglo
 ## La Bendición de Buffy Wolframia
 Después de demostrar su valía, Buffy otorgó su bendición al grupo. Se desconoce el efecto de esta bendición, pero parece importante.
 
-## Reglas Especiales
-La bendición también incluye una conexión telepática con Buffy, permitiendo a los personajes comunicarse con ella una vez al día para obtener consejo o apoyo.
-
-## Rol en la Aventura
+## Reglas Especiales 
 Buffy Wolframia no solo es un guardián, sino también una guía espiritual. Su bendición será crucial para los personajes en los desafíos venideros, y su sabiduría les ayudará a navegar las complejidades del mundo y los secretos del Templo de los Susurros.
 
 ## Personalidad
 Buffy es astuta y observadora, con un sentido del humor juguetón. Aunque seria en su deber como guardiana, muestra un lado afectuoso y protector hacia aquellos que ganan su favor.
 
-![Pasted image 20240611170944.png](/img/user/Pasted%20image%2020240611170944.png)
+![Pasted image 20240611170944.png](/img/user/imagenes/Pasted%20image%2020240611170944.png)
