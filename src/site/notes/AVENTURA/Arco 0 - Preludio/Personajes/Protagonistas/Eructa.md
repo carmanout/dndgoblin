@@ -11,7 +11,9 @@
 ***
 ## Historia
 
-Eructa siempre destacó en su pueblo por ser un goblin más grande y con un apetito insaciable. Criada en el campo, su vida cambió cuando fue desterrada por enamorarse de la hija del panadero. Ahora, recorre aldeas buscándose la vida con trabajos que le permiten mantener su físico, metiéndose en peleas y ahogando sus penas en tabernas. Está emocionada por el Drag-On Fest, donde espera encontrar un ambiente más inclusivo y participar en el concurso de pulsos.
+Eructa siempre destacó en su pueblo por ser un goblin más grande y con un apetito insaciable. Criada en el campo, su vida cambió cuando fue desterrada por enamorarse de la hija del panadero. Ahora, recorre aldeas buscándose la vida con trabajos que le permiten mantener su físico, metiéndose en peleas y ahogando sus penas en tabernas.
+
+Está emocionada por el Drag-On Fest, donde espera encontrar un ambiente más inclusivo y participar en el concurso de pulsos. Además, no sabe bien cómo, pero ha conseguido trabajo de guardaespaldas de [[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Irenix Moñotero\|Irenix Moñotero]], parece una ocasión única para reconstruir su vida.
 
 ***
 ## Personalidad y Motivaciones
