@@ -17,4 +17,4 @@ Buffy Wolframia no solo es un guardián, sino también una guía espiritual. Su 
 ## Personalidad
 Buffy es astuta y observadora, con un sentido del humor juguetón. Aunque seria en su deber como guardiana, muestra un lado afectuoso y protector hacia aquellos que ganan su favor.
 
-![Pasted image 20240611170944.png](/img/user/imagenes/Pasted%20image%2020240611170944.png)
+![Pasted image 20240611170944.png](/img/user/_imagenes/Pasted%20image%2020240611170944.png)
