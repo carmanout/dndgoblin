@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventura/arco-0-preludio/eventos/drag-on-fest/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/aventura/arco-0-preludio/eventos/drag-on-fest/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 El Drag-ón Fest ha cobrado mucha popularidad este año, una competencia donde los goblins más audaces (y aquellos con la mejor moda) compiten para ser coronados como el "Rey o Reina Drag-ón del Año".
