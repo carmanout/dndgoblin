@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventura/arco-0-preludio/personajes/buffy-wolframia/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/aventura/arco-0-preludio/personajes/buffy-wolframia/","noteIcon":""}
 ---
 
 ## Descripción
