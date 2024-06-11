@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventura/arco-0-preludio/personajes/protagonistas/culina/","tags":["protagonistas"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Culina/","tags":["protagonistas"],"noteIcon":""}
 ---
 
 ***
