@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/inicio/","tags":["gardenEntry"]}
 ---
 
-# Los pergaminos de Arcanio
+> _11º día de otoño, año 3781 de los nuevos Dioses._
 
 Hace varias lunas que investigo los extraños sucesos que acontecen en la costa de la espada, y esperando que fueran poca cosa, he sentido como los hilos del destino se cristalizaban. La naturaleza de la magia está cambiando en Faerûn, y debo investigar al respecto. Puede que sea algo bueno, pero debo comprobarlo, Será que aún tengo algún propósito en este mundo, pero si no es así, debo documentarlo.
 
