@@ -25,7 +25,7 @@ Lyra es una astuta y carismática ladrona, conocida por su moral ambigua y su af
  - "Dinero. Ah, y también dinero. ¿He dicho que dinero?"
 
 **Vínculos:**
- - La [[0-LORE/Conceptos de Faerûn/Orden de los Soberanos del Saber\|Orden de los Soberanos del Saber]] le han encargado acabar con la vida de [[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Irenix Moñotero\|Irenix Moñotero]], aunque no está segura del todo.
+ - La [[LEGENDARIUM/Conceptos de Faerûn/Orden de los Soberanos del Saber\|Orden de los Soberanos del Saber]] le han encargado acabar con la vida de [[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Irenix Moñotero\|Irenix Moñotero]], aunque no está segura del todo.
 
 **Defectos:**
  - "El alcohol. Después de una copa solo está la siguiente."
