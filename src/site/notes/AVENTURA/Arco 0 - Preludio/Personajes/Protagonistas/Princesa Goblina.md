@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventura/arco-0-preludio/personajes/protagonistas/princesa-goblina/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/aventura/arco-0-preludio/personajes/protagonistas/princesa-goblina/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ***
