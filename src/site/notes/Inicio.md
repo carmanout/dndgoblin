@@ -9,3 +9,5 @@ Hace varias lunas que investigo los extraños sucesos que acontecen en la costa 
 La Urdimbre es extensa, y es por ello que sé que estos pergaminos solo los encontraran aquellos dignos de ellos. Mi magia no es tan poderosa como antaño, pero entre los trucos que me quedan, este probablemente sea el más ingenioso. No solo podré contar lo que investigo, sino también compartirlo con aquellos que son mis aliados, no importa si no los conozco.
 
 Así pues, si estás leyendo esto, eres mi aliado, aunque es probable que si lees esto, vivas en una realidad distinta a la mía. En ese caso, espero que disfrutes con lo que narraré a continuación.
+
+-> [[AVENTURA/Sesiones/Preludio\|Preludio]]
