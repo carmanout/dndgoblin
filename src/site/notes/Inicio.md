@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inicio/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/inicio/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 > _11º día de otoño, año 3781 de los nuevos Dioses._
