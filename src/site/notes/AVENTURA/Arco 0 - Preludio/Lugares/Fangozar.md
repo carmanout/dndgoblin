@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventura/arco-0-preludio/lugares/fangozar/","noteIcon":""}
+{"dg-publish":true,"permalink":"/AVENTURA/Arco 0 - Preludio/Lugares/Fangozar/","noteIcon":""}
 ---
 
 #lugares
