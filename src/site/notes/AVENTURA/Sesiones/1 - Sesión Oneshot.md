@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Jugador 1":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Culina\|Culina]]","Jugador 2":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Princesa Goblina\|Princesa Goblina]]","Jugador 3":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Eructa\|Eructa]]","Jugador 4":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Irenix Moñotero\|Irenix Moñotero]]","Jugador 5":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Lyra\|Lyra]]","permalink":"/aventura/sesiones/1-sesion-oneshot/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"Jugador 1":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Culina\|Culina]]","Jugador 2":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Princesa Goblina\|Princesa Goblina]]","Jugador 3":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Eructa\|Eructa]]","Jugador 4":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Irenix Moñotero\|Irenix Moñotero]]","Jugador 5":"[[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Lyra\|Lyra]]","tags":["sesion"],"permalink":"/aventura/sesiones/1-sesion-oneshot/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 > 25º día de otoño, año 781 de los nuevos Dioses.
