@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventura/sesiones/0-preludio/","tags":["sesion"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/AVENTURA/Sesiones/0 - Preludio/","tags":["sesion"],"noteIcon":""}
 ---
 
 > 15º día de otoño, año 781 de los nuevos Dioses.
