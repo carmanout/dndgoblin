@@ -4,16 +4,16 @@
 
 #lugares
 ***
-# Ubicación
+## Ubicación
 
 ***
-# Historia
+## Historia
 
 ***
-# Arquitectura
+## Arquitectura
 
 ***
-# Cultura
+## Cultura
 
 ***
-# Economía
+## Economía
