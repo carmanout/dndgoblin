@@ -9,7 +9,7 @@ Buffy Wolframia es una esfinge majestuosa con el porte elegante y la gracia feli
 Buffy Wolframia ha protegido las ruinas del Templo de los Susurros durante siglos. Se dice que aquellos que resuelven sus acertijos y muestran valentía reciben su bendición, un símbolo de gran honor y poder.
 
 ## La Bendición de Buffy Wolframia
-Después de demostrar su valía, Buffy otorgó su bendición al grupo. Se desconoce el efecto de esta bendición, pero parece importante.
+Buffy pidió a las #protagonistas que les enseñara lo que tuvieran. [[AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Culina\|Culina]] lo entendió a la primera, y le hicieron una performance que la impresionó. Después de demostrar su valía, Buffy otorgó su bendición al grupo. Se desconoce el efecto de esta bendición, pero parece importante.
 
 ## Reglas Especiales 
 Buffy Wolframia no solo es un guardián, sino también una guía espiritual. Su bendición será crucial para los personajes en los desafíos venideros, y su sabiduría les ayudará a navegar las complejidades del mundo y los secretos del Templo de los Susurros.
