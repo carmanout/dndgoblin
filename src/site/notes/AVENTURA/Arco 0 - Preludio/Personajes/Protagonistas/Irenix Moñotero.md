@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventura/arco-0-preludio/personajes/protagonistas/irenix-monotero/","tags":["protagonistas"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Irenix Moñotero/","tags":["protagonistas"],"noteIcon":""}
 ---
 
 ***
