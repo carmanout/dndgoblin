@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-lore/conceptos-de-faerun/la-urdimbre/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/0-lore/conceptos-de-faerun/la-urdimbre/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## ¿Qué es la Urdimbre?
