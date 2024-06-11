@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventura/sesiones/1-sesion-oneshot/","tags":["sesion"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/AVENTURA/Sesiones/1 - Sesión Oneshot/","tags":["sesion"],"noteIcon":""}
 ---
 
 > 25º día de otoño, año 781 de los nuevos Dioses.
