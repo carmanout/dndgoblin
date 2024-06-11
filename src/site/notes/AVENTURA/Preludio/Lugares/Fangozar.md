@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aventura/preludio/lugares/fangozar/"}
+{"dg-publish":true,"permalink":"/aventura/preludio/lugares/fangozar/","dgPassFrontmatter":true}
 ---
 
 # Fangozar: El Refugio del Barro
