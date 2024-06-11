@@ -30,10 +30,4 @@ Lyra es una astuta y carismática ladrona, conocida por su moral ambigua y su af
 **Defectos:**
  - "El alcohol. Después de una copa solo está la siguiente."
 
-***
-## Detalles Adicionales
-
-
-***
-## Metas
 
