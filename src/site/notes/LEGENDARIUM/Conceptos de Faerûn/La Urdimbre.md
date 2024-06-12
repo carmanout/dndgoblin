@@ -3,7 +3,7 @@
 ---
 
 ## ¿Qué es la Urdimbre?
-Ah, la Urdimbre, ese entramado místico que subyace bajo toda la realidad. Desde los albores del tiempo, la Urdimbre ha sido el tejido del que está hecha la magia misma. Es una red omnipresente y etérea que conecta y sustenta todas las formas de magia, permitiendo a los magos, como yo, manipularla para producir maravillas y horrores por igual.
+La Urdimbre, ese entramado místico que subyace bajo toda la realidad. Desde los albores del tiempo, la Urdimbre ha sido el tejido del que está hecha la magia misma. Es una red omnipresente y etérea que conecta y sustenta todas las formas de magia, permitiendo a los magos, como yo, manipularla para producir maravillas y horrores por igual.
 
 ## Tipos de Urdimbre
 
