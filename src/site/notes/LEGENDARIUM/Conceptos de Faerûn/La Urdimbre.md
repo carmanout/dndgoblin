@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/LEGENDARIUM/Conceptos de Faerûn/La Urdimbre/","noteIcon":""}
+{"dg-publish":true,"permalink":"/LEGENDARIUM/Conceptos de Faerûn/La Urdimbre/"}
 ---
 
 ## ¿Qué es la Urdimbre?
