@@ -11,6 +11,6 @@ La Urdimbre es extensa, y es por ello que sé que estos pergaminos solo los enco
 Así pues, si estás leyendo esto, eres mi aliado, aunque es probable que si lees esto, vivas en una realidad distinta a la mía. En ese caso, espero que disfrutes con lo que narraré a continuación.
 
 - [[AVENTURA/Sesiones/1 - Sesión Oneshot\|1 - Sesión Oneshot]]
-- [[AVENTURA/Sesiones/0 - Preludio\|0 - Preludio]]
+- [[AVENTURA/Sesiones/Preludio\|Preludio]]
 
 { .block-language-dataview}
