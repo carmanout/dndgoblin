@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Eructa/","tags":["protagonistas"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/AVENTURA/Arco 0 - Preludio/Personajes/Protagonistas/Eructa/","tags":["protagonistas"]}
 ---
 
 ***
