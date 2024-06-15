@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AVENTURA/Arco 0 - Preludio/Eventos/Drag-ón Fest/","noteIcon":""}
+{"dg-publish":true,"permalink":"/AVENTURA/Arco 0 - Preludio/Eventos/Drag-ón Fest/"}
 ---
 
 El Drag-ón Fest ha cobrado mucha popularidad este año, una competencia donde los goblins más audaces (y aquellos con la mejor moda) compiten para ser coronados como el "Rey o Reina Drag-ón del Año", presentado por la goblin Goblinca Naranjarlhhho.
