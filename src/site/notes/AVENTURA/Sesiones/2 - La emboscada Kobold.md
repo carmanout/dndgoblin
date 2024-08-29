@@ -14,6 +14,8 @@ Descubrieron que, una organización llamada [[La Mano Negra\|La Mano Negra]] dir
 
 Con esta premisa, [[AVENTURA/Protagonistas/Eructa\|Eructa]] se enfrentó a Klarg en combate singular, aunque quien verdaderamente dio muerte al dracónido fue la tribu, inspirada por [[AVENTURA/Protagonistas/Irenix Moñotero\|Irenix Moñotero]], la cual con un discurso motivador, volvió a la tribu contra su jefe.
 
+Tras esto encontraron una puerta con un acertijo tremendamente complicado, el cual al resolverlo, encontraron un [[Artefacto misterioso\|Artefacto misterioso]].
+
 Así fue como el grupo consiguió liberar a la tribu de su yugo, y pasaron la noche festejando con los kobolds. A la mañana siguiente, pudieron hablar con la [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Personajes/Inspectora Belenda\|Inspectora Belenda]], la cual les informó del secuestro de [[Aitanator\|Aitanator]], [[Manu\|Manu]] y [[Ela\|Ela]], las tres principales figuras de [[Forbo\|Forbo]] encargadas de la minería y la joyería. Al parecer, tenían un plan para enriquecer a toda la aldea, pero ahora con sus desapariciones, la situación está comprometida. Belenda sospecha que [[La Mano Negra\|La Mano Negra]] trata de impedir que estas riquezas sean para [[Forbo\|Forbo]], y quizás las quieran para ellos.
 
 Con el futuro incierto, el grupo marcha camino a la aldea, lugar donde por fin podrán conocer a [[Charles Wilbur\|Charles Wilbur]], alguien que podrá darles más información sobre su destino y el cómo ayudar a Forbo a recuperar sus esperanzas.
