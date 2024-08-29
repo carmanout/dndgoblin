@@ -14,5 +14,6 @@ Así pues, si estás leyendo esto, eres mi aliado, aunque es probable que si lee
 - [[AVENTURA/Sesiones/1 - Sesión Oneshot\|1 - Sesión Oneshot]]
 - [[AVENTURA/Sesiones/1.9 - Encuentro con Gartgnartgnahan\|1.9 - Encuentro con Gartgnartgnahan]]
 - [[AVENTURA/Sesiones/2 - La emboscada Kobold\|2 - La emboscada Kobold]]
+- [[AVENTURA/Sesiones/2.5 - Llegada a Forbo\|2.5 - Llegada a Forbo]]
 
 { .block-language-dataview}
