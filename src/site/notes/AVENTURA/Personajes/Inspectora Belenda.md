@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/AVENTURA/Personajes/Inspectora Belenda/"}
 ---
 
-La inspectora Belenda, es un personaje popular de [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forbo\|Forbo]], ya que se encuentra en la [[LEGENDARIUM/Conceptos de Faerûn/Junta de Forbo\|Junta de Forbo]].
+La inspectora Belenda, es un personaje popular de [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forbo\|Forbo]], ya que se encuentra en la [[LEGENDARIUM/Conceptos de Faerûn/Grupos y asociaciones/Junta de Forbo\|Junta de Forbo]].
 
 Fue secuestrada junto a [[AVENTURA/Personajes/Aitanator\|Aitanator]] por un grupo de Kobolds mientras investigaban las desapariciones de [[AVENTURA/Personajes/Manu\|Manu]] y [[AVENTURA/Personajes/Ela\|Ela]], las cuales desaparecieron a la vez.
 
