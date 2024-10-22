@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/AVENTURA/Personajes/Marwanrel/"}
 ---
 
-# Marwanrel
 
 **Raza:** Drow (Elfo Oscuro)  
 **Edad:** Desconocida  
