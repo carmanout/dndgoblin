@@ -1,0 +1,25 @@
+---
+{"dg-publish":true,"permalink":"/AVENTURA/Sesiones/4 - El castillo en ruinas de Bocapeñasco/"}
+---
+
+> 42º día de otoño, año 781 de los nuevos Dioses.
+
+De camino de vuelta a [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forbo\|Forbo]], [[AVENTURA/Personajes/Sinpajón\|Sinpajón]] despertó y pidió que lo desataran, prometiendo no ir a ver al dragón [[AVENTURA/Personajes/Venomfang\|Venomfang]], que habitaba en las ruinas de Zidram. Estuvieron hablando por el camino y parece que este entró en razón.
+
+Al llegar a [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forbo\|Forbo]], el pueblo estaba conmocionado por la aparición de una mano negra gigante en la fachada del [[orfanato de Forbo\|orfanato de Forbo]]. Hablando con [[AVENTURA/Personajes/Charles Wilbur\|Charles Wilbur]], tomaron la decisión de que [[AVENTURA/Personajes/Sinpajón\|Sinpajón]] se quedara allí trabajando cuidando de los pequeños, poniendo por fin sentido a su vida más allá del onanismo mental.
+
+La compañía esa noche descansó, antes de partir al [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Castillo Bocapeñasco\|Castillo Bocapeñasco]] a rescatar a [[AVENTURA/Personajes/Aitanator\|Aitanator]]. Pero no fue una noche tan tranquila. [[AVENTURA/Protagonistas/Gartgnartgnahan\|Gartgnartgnahan]] se sintió espiado, pero no encontró muchas pruebas de ello. Pero más inusual fue que [[AVENTURA/Protagonistas/Eructa\|Eructa]] tuvo un sueño de lo más extraño. Al parecer tuvo un encuentro con una persona en sus sueños, la cual podía hacerlo gracias al [[Artefacto misterioso\|Artefacto misterioso]], que resultó ser una dimensión de bolsillo. No quiso contarle más, pero esta presencia misteriosa le dijo a [[AVENTURA/Protagonistas/Eructa\|Eructa]] que estaba en buen camino, y que en el futuro le contaría más a cerca de esto.
+
+> 43º día de otoño, año 781 de los nuevos Dioses.
+
+A la mañana siguiente, pusieron camino al [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Castillo Bocapeñasco\|Castillo Bocapeñasco]], y a mitad de camino, se sorprendieron con que [[AVENTURA/Protagonistas/Gartgnartgnahan\|Gartgnartgnahan]] se había duplicado. Tras preguntarle su nombre a ambos, desenmascararon a un [[LEGENDARIUM/Conceptos de Faerûn/Razas y especies/Cambiaformas\|Cambiaformas]] llamado [[AVENTURA/Personajes/Vluman\|Vluman]], el cual había sido contratado por [[LEGENDARIUM/Conceptos de Faerûn/Grupos y asociaciones/La mano negra\|La mano negra]] para infiltrarse en el entorno de [[AVENTURA/Personajes/Charles Wilbur\|Charles Wilbur]].
+
+Este les desveló quien era el líder de [[LEGENDARIUM/Conceptos de Faerûn/Grupos y asociaciones/La mano negra\|La mano negra]], [[AVENTURA/Personajes/Marwanrel\|Marwanrel]], el mayor enemigo que jamás ha tenido [[AVENTURA/Protagonistas/Radiculina\|Radiculina]]. También les dirigió al [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Castillo Bocapeñasco\|Castillo Bocapeñasco]], donde les ayudó a atravesar los pasadizos para rescatar a [[AVENTURA/Personajes/Aitanator\|Aitanator]] de su prisión mágica y advirtiéndoles de que estaba plagado de [[LEGENDARIUM/Conceptos de Faerûn/Razas y especies/Kobold\|Kobold]]. En la puerta del castillo, encontraron la cabeza de [[AVENTURA/Personajes/Skarl\|Skarl]].
+
+Tras una serie de combates arrasados por el fuego rosa de [[AVENTURA/Protagonistas/Princesa Princesa\|Princesa Princesa]] y por insultos de [[AVENTURA/Protagonistas/Irenix Moñotero\|Irenix Moñotero]], encontraron la prisión de [[AVENTURA/Personajes/Aitanator\|Aitanator]]. Un fantasma asociado a un glifo mágico impedía liberarla sin causar la explosión de cientos de barriles. El fantasma, custodiaba el siguiente acertijo para poder abrir la prisión:
+
+***"Soy algo que siempre está, pero nunca existe, tengo nombre pero nunca lo dirás. Estoy en todas partes, pero si me buscas no me hallarás. Puedes verme si no me miras, y puedes tocarme sin sentirme. Tengo un principio, pero ningún final. Estoy antes del después y después del ahora, y si alguna vez me encuentras, desapareceré."***
+
+Sin saber cómo descifrar el enigma, decidieron desactivar la trampa de pólvora. Tras sacar de allí a [[AVENTURA/Personajes/Aitanator\|Aitanator]] huyeron, y al salir del castillo, una fuerte explosión hizo que las pocas partes que aún se conservaban de las ruinas del [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Castillo Bocapeñasco\|Castillo Bocapeñasco]] salieran volando. Tras este momento, el líder de los [[LEGENDARIUM/Conceptos de Faerûn/Razas y especies/Kobold\|Kobold]] de la mano negra, luchó ferozmente con su [[LEGENDARIUM/Conceptos de Faerûn/Razas y especies/Osolechuza\|Osolechuza]] para dar muerte al grupo, pero consiguieron derrotar a este feroz enemigo.
+
+Tras la feroz batalla bajo la lluvia y entre las llamas de la explosión, los [[LEGENDARIUM/Conceptos de Faerûn/Razas y especies/Kobold\|LEGENDARIUM/Conceptos de Faerûn/Razas y especies/Kobold]] supervivientes empezaron a gritar al cielo. Instantes después, descendió sin previo aviso [[AVENTURA/Personajes/Venomfang\|Venomfang]], la dragona verde, mirando altivamente a los héroes, los cuales se encontraban en su peor momento.
