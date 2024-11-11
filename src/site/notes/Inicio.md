@@ -10,8 +10,8 @@ La Urdimbre es extensa, y es por ello que sé que estos pergaminos solo los enco
 
 Así pues, si estás leyendo esto, eres mi aliado, aunque es probable que si lees esto, vivas en una realidad distinta a la mía. En ese caso, espero que disfrutes con lo que narraré a continuación.
 
+- [[AVENTURA/Arco 1 -  El Misterio de Forviolette/preludio/0 - Preludio\|0 - Preludio]]
 - [[AVENTURA/Sesiones/1 - Sesión Oneshot\|1 - Sesión Oneshot]]
-- [[AVENTURA/Sesiones/0 - Preludio\|0 - Preludio]]
 - [[AVENTURA/Sesiones/1.9 - Encuentro con Gartgnartgnahan\|1.9 - Encuentro con Gartgnartgnahan]]
 - [[AVENTURA/Sesiones/2 - La emboscada Kobold\|2 - La emboscada Kobold]]
 - [[AVENTURA/Sesiones/2.5 - Llegada a Forbo\|2.5 - Llegada a Forbo]]
