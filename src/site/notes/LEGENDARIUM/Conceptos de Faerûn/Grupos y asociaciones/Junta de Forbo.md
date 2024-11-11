@@ -7,7 +7,7 @@ La Junta de Forbo es una organización que se encarga de dirigir las acciones de
 Los miembros de esta junta son:
 - [[AVENTURA/Personajes/Inspectora Belenda\|Inspectora Belenda]]
 - [[AVENTURA/Personajes/Charles Wilbur\|Charles Wilbur]]
-- [[AVENTURA/Personajes/Len Neleb\|Len Neleb]]
+- [[AVENTURA/Personajes/Ler Neleb\|Ler Neleb]]
 - [[AVENTURA/Personajes/Aitanator\|Aitanator]]
 - [[AVENTURA/Personajes/Manu\|Manu]]
 - [[AVENTURA/Personajes/Ela\|Ela]]
