@@ -6,4 +6,6 @@ Aitanator, es un personaje popular de [[AVENTURA/Arco 1 -  El Misterio de Forvio
 
 Fue secuestrada junto a la [[AVENTURA/Personajes/Inspectora Belenda\|Inspectora Belenda]] por un grupo de Kobolds mientras investigaban las desapariciones de [[AVENTURA/Personajes/Manu\|Manu]] y [[AVENTURA/Personajes/Ela\|Ela]], las cuales desaparecieron a la vez.
 
-Ha sido recientemente rescatada por los aventureros en [[AVENTURA/Sesiones/4 - El castillo en ruinas de Bocapeñasco\|4 - El castillo en ruinas de Bocapeñasco]], pero aún no han podido dialogar con ella.
+Ha sido recientemente rescatada por los aventureros en [[AVENTURA/Sesiones/4 - El castillo en ruinas de Bocapeñasco\|4 - El castillo en ruinas de Bocapeñasco]].
+
+Han pactado con ella que les llevaría hasta [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forviolette\|Forviolette]], con la esperanza de que ellos tengan la clave para abrir la mina.
