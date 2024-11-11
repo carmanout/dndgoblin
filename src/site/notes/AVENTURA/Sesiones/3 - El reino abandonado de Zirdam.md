@@ -6,7 +6,7 @@
 
 Tras hablar con el consejo de [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forbo\|Forbo]], la compañía entendió que el pueblo estaba siendo extorsionado por [[LEGENDARIUM/Conceptos de Faerûn/Grupos y asociaciones/La mano negra\|La mano negra]], quienes tratan de hacerse con el control de las instituciones para poder vivir a costa de sus ciudadanos.
 
-Parece que tanto la [[AVENTURA/Personajes/Inspectora Belenda\|Inspectora Belenda]] como [[AVENTURA/Personajes/Charles Wilbur\|Charles Wilbur]] están en contra de estos sucesos, y quieren restaurar el orden natural de las cosas, haciendo que [[AVENTURA/Personajes/Aitanator\|Aitanator]] y [[AVENTURA/Personajes/Len Neleb\|Len Neleb]] sean encontradas para poder continuar con el proyecto de extraer riquezas de la mina de [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forviolette\|Forviolette]].
+Parece que tanto la [[AVENTURA/Personajes/Inspectora Belenda\|Inspectora Belenda]] como [[AVENTURA/Personajes/Charles Wilbur\|Charles Wilbur]] están en contra de estos sucesos, y quieren restaurar el orden natural de las cosas, haciendo que [[AVENTURA/Personajes/Aitanator\|Aitanator]] y [[AVENTURA/Personajes/Ler Neleb\|Ler Neleb]] sean encontradas para poder continuar con el proyecto de extraer riquezas de la mina de [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forviolette\|Forviolette]].
 
 Tras conocer esto, decidieron pegarse una juerga bien merecida, sin [[AVENTURA/Protagonistas/Lyra\|Lyra]], la cual parece que ha decidido tomar su propio rumbo por ahora.
 
