@@ -4,7 +4,7 @@
 
 > 42º día de otoño, año 781 de los nuevos Dioses.
 
-De camino de vuelta a [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forbo\|Forbo]], [[AVENTURA/Personajes/Sinpajón\|Sinpajón]] despertó y pidió que lo desataran, prometiendo no ir a ver al dragón [[AVENTURA/Personajes/Venomfang\|Venomfang]], que habitaba en las ruinas de Zidram. Estuvieron hablando por el camino y parece que este entró en razón.
+De camino de vuelta a [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forbo\|Forbo]], [[AVENTURA/Personajes/Sinpajón\|Sinpajón]] despertó y pidió que lo desataran, prometiendo no ir a ver al dragón [[AVENTURA/Personajes/La Veneno\|La Veneno]], que habitaba en las ruinas de Zidram. Estuvieron hablando por el camino y parece que este entró en razón.
 
 Al llegar a [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forbo\|Forbo]], el pueblo estaba conmocionado por la aparición de una mano negra gigante en la fachada del [[orfanato de Forbo\|orfanato de Forbo]]. Hablando con [[AVENTURA/Personajes/Charles Wilbur\|Charles Wilbur]], tomaron la decisión de que [[AVENTURA/Personajes/Sinpajón\|Sinpajón]] se quedara allí trabajando cuidando de los pequeños, poniendo por fin sentido a su vida más allá del onanismo mental.
 
@@ -22,4 +22,4 @@ Tras una serie de combates arrasados por el fuego rosa de [[AVENTURA/Protagonist
 
 Sin saber cómo descifrar el enigma, decidieron desactivar la trampa de pólvora. Tras sacar de allí a [[AVENTURA/Personajes/Aitanator\|Aitanator]] huyeron, y al salir del castillo, una fuerte explosión hizo que las pocas partes que aún se conservaban de las ruinas del [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Castillo Bocapeñasco\|Castillo Bocapeñasco]] salieran volando. Tras este momento, el líder de los [[LEGENDARIUM/Conceptos de Faerûn/Razas y especies/Kobold\|Kobold]] de la mano negra, luchó ferozmente con su [[LEGENDARIUM/Conceptos de Faerûn/Razas y especies/Osolechuza\|Osolechuza]] para dar muerte al grupo, pero consiguieron derrotar a este feroz enemigo.
 
-Tras la feroz batalla bajo la lluvia y entre las llamas de la explosión, los [[LEGENDARIUM/Conceptos de Faerûn/Razas y especies/Kobold\|LEGENDARIUM/Conceptos de Faerûn/Razas y especies/Kobold]] supervivientes empezaron a gritar al cielo. Instantes después, descendió sin previo aviso [[AVENTURA/Personajes/Venomfang\|Venomfang]], la dragona verde, mirando altivamente a los héroes, los cuales se encontraban en su peor momento.
+Tras la feroz batalla bajo la lluvia y entre las llamas de la explosión, los [[LEGENDARIUM/Conceptos de Faerûn/Razas y especies/Kobold\|Kobold]]s supervivientes empezaron a gritar al cielo. Instantes después, descendió sin previo aviso [[AVENTURA/Personajes/La Veneno\|La Veneno]], la dragona verde, mirando altivamente a los héroes, los cuales se encontraban en su peor momento.
