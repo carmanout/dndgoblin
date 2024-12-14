@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/LEGENDARIUM/Conceptos de Faerûn/Grupos y asociaciones/La mano negra/"}
 ---
 
-## Resumen
-
 La **Mano Negra** es una banda de criminales y matones que operan en la región donde se encuentra [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forbo\|Forbo]], actuando como una organización opresiva y violenta. Controlan la ciudad con intimidación y extorsión, aprovechándose del miedo de los aldeanos y tomando todo lo que desean.
 
 Ha sido desarticulada por los aventureros en [[AVENTURA/Sesiones/5 - Venganza y reencuentros\|5 - Venganza y reencuentros]], quedando así solamente su lider [[AVENTURA/Personajes/Marwanrel\|Marwanrel]]
