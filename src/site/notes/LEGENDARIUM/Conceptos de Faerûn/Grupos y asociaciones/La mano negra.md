@@ -4,7 +4,7 @@
 
 La **Mano Negra** es una banda de criminales y matones que operan en la región donde se encuentra [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forbo\|Forbo]], actuando como una organización opresiva y violenta. Controlan la ciudad con intimidación y extorsión, aprovechándose del miedo de los aldeanos y tomando todo lo que desean.
 
-Ha sido desarticulada por los aventureros en [[AVENTURA/Sesiones/5 - Venganza y reencuentros\|5 - Venganza y reencuentros]], quedando así solamente su lider [[AVENTURA/Personajes/Marwanrel\|Marwanrel]]
+Ha sido desarticulada por los aventureros en [[AVENTURA/Sesiones/5 - Venganza y reencuentros\|5 - Venganza y reencuentros]], quedando así solamente su líder [[AVENTURA/Personajes/Marwanrel\|Marwanrel]]
 
 ## Objetivos
 
@@ -20,7 +20,7 @@ El principal objetivo de la Mano Negra es obtener **poder y riquezas** controlan
 
 ## Intenciones
 
-La Mano Negra tiene como objetivo mantener el **control total de [[Forbo**\|Forbo**]], eliminando cualquier amenaza que pueda poner en peligro su dominio. Con la reciente actividad en torno a la **Mina Perdida de [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forviolette\|Forviolette]]**, están decididos a evitar que [[AVENTURA/Personajes/Aitanator\|Aitanator]] y otros aventureros reclamen la mina, ya que los recursos mágicos de la mina podrían traer riqueza y poder a quien la controle, lo cual la Mano Negra no está dispuesta a permitir que caiga en otras manos.
+La Mano Negra tiene como objetivo mantener el **control total de [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forbo\|Forbo]]**, eliminando cualquier amenaza que pueda poner en peligro su dominio. Con la reciente actividad en torno a la **Mina Perdida de [[AVENTURA/Arco 1 -  El Misterio de Forviolette/Lugares/Forviolette\|Forviolette]]**, están decididos a evitar que [[AVENTURA/Personajes/Aitanator\|Aitanator]] y otros aventureros reclamen la mina, ya que los recursos mágicos de la mina podrían traer riqueza y poder a quien la controle, lo cual la Mano Negra no está dispuesta a permitir que caiga en otras manos.
 
 ## Relación con la Araña Negra
 
